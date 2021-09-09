@@ -68,15 +68,15 @@ def restart(client, m: Message):
         target=stop_and_restart
         ).start()
     try:
-        k.edit("✅ **Restarted Successfully! \nJoin @AsmSafone For More!**")
+        k.edit("✅ **Restarted Successfully! \nJoin @Muzaffar_SmartBoy0000 For More!**")
     except:
         pass
 
 Bot.start()
 User.start()
-print("\nVideo Player Bot Started, Join @AsmSafone!")
+print("\nVideo Player Bot Started, Join @Muzaffar_SmartBoy0000!")
 
 idle()
 Bot.stop()
 User.stop()
-print("\nVideo Player Bot Stopped, Join @AsmSafone!")
+print("\nVideo Player Bot Stopped, Join @Muzaffar_SmartBoy0000!")
